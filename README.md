@@ -12,7 +12,7 @@ Esta aplicacion muestra  por medio de un carrusel las series de televisión y su
 Instrucciones para instalar y ejecutar la aplicación React.
 
 ```bash
-git clone https://github.com/fabriconiglio/Test-Capabilia.git
+git clone https://github.com/fabriconiglio/app-horarios-series.git
 cd ejercicioCuatro/app-horarios-series
 npm install
 npm start
